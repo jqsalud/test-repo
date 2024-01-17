@@ -1,0 +1,19 @@
+img {
+    width: 200px;
+}
+.first{
+    color: green;
+    font-size: 400px;
+}
+.sec{
+    color: blue;
+    font-size: 100px;
+}
+.third{
+    color: yellow;
+    font-size: 300px;
+}
+.forth{
+    color: brown;
+    font-size: 200px;
+}
